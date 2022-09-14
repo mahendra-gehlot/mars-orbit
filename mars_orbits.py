@@ -252,7 +252,7 @@ def MarsEquantModel(c, r, e1, e2, z, s, times, oppositions):
     return errors, max_error
 
 
-Question 01
+# Question 01
 print('QUESTION 01')
 # errors, maxError = MarsEquantModel(2.5991373255251933, 8.18212891, 1.519648971343584,
 #                     2.597157108784485, 0.9744796022943893, 0.00914694657579844,
